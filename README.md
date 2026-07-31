@@ -1,75 +1,112 @@
-<h1 align="center">Hi there, I'm Shubham Raj Paudel 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4FD1C5&center=true&vCenter=true&width=600&lines=Data+Engineering+%26+ML+Associate;Building+with+Kafka%2C+OpenSearch+%26+PyTorch;Exploring+RAG+and+Anomaly+Detection;Turning+data+into+decisions" alt="Typing SVG" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:4FD1C5&height=200&section=header&text=Shubham%20Raj%20Paudel&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineering%20%26%20ML%20Associate&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubham-Paudel&label=Profile%20Views&color=4FD1C5&style=flat" alt="Profile views" />
-</p>
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=4FD1C5&center=true&vCenter=true&width=650&lines=Streaming+data+with+Apache+Kafka;Indexing+and+searching+with+OpenSearch;Building+models+in+PyTorch;Shipping+RAG+%26+GenAI+systems;Kathmandu%2C+Nepal+%F0%9F%87%B3%F0%9F%87%B5" />
 
-### 🚀 About Me
+<br/><br/>
 
-- 🔭 I'm currently working as a **Data Engineering & ML Associate** at **Vairav Technology Security**
-- 🧠 My work spans **data pipelines, machine learning, and generative AI** — from real-time streaming with Kafka to anomaly detection (UEBA) and RAG-based systems
-- 🎓 B.E. in Electronics, Communication & Information Engineering, Tribhuvan University (2021–2025)
-- 🛠️ Previously an AI/ML Trainee and R&D Intern at Vairav Technology Security, and a Frontend Dev Intern at Vividify Solutions
-- 🌱 Always exploring new ideas at the intersection of **data engineering** and **applied ML**
-- 📍 Based in Kathmandu, Nepal
-- ⚡ Fun fact: I like turning messy raw data into something a model — or a person — can actually use
+<a href="https://facebook.com/shubham.rajpaudel"><img src="https://img.shields.io/badge/Facebook-0F172A?style=for-the-badge&logo=facebook&logoColor=4FD1C5" /></a>
+<a href="https://instagram.com/shubhampaudel_11"><img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=4FD1C5" /></a>
+<img src="https://komarev.com/ghpvc/?username=Shubham-Paudel&style=for-the-badge&color=0F172A&label=PROFILE+VIEWS&labelColor=4FD1C5" />
 
----
+</div>
 
-### 💻 Tech Stack
+<br/>
 
-**Languages**
+## ⟢ About
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+```yaml
+role:      Data Engineering & ML Associate @ Vairav Technology Security
+past:      AI/ML Trainee & R&D Intern @ Vairav Technology Security
+           Frontend Developer Intern @ Vividify Solutions
+education: B.E. Electronics, Communication & Information Engineering
+           Tribhuvan University, 2021 – 2025
+focus:     data pipelines · anomaly detection (UEBA) · RAG · applied ML
+location:  Kathmandu, Nepal
+```
 
-**Data & Machine Learning**
+<br/>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white) ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+## ⟢ Stack
 
-**Tools & Platforms**
+<div align="center">
 
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,pytorch,kafka,opensearch,fastapi,docker,mysql,git,linux,flutter&theme=dark" />
 
----
+</div>
 
-### 📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shubham-Paudel&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Paudel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+## ⟢ GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Paudel&theme=dark&hide_border=false" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shubham-Paudel&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Shubham-Paudel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=4FD1C5&icon_color=4FD1C5&text_color=cbd5e1" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Paudel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=4FD1C5&text_color=cbd5e1" height="165"/>
 
-### 🔝 Top Contributed Repo
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Paudel&theme=tokyonight&hide_border=true&background=0F172A&ring=4FD1C5&fire=4FD1C5&currStreakLabel=4FD1C5" />
 
-![](https://github-contributor-stats.vercel.app/api?username=Shubham-Paudel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github-profile-trophy.vercel.app/?username=Shubham-Paudel&theme=tokyonight&no-frame=true&column=6&margin-w=8&margin-h=8" />
 
-### ✍️ Random Dev Quote
+</div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
----
+## ⟢ Contribution Graph
 
-### 🌐 Socials
+<div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shubham.rajpaudel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhampaudel_11)
+<!--START_SECTION:activity-->
+<img src="https://raw.githubusercontent.com/Shubham-Paudel/Shubham-Paudel/output/github-contribution-grid-snake-dark.svg" />
+<!--END_SECTION:activity-->
 
-<!-- Add LinkedIn / portfolio site badges here once you have the links ready, e.g.:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4FD1C5?style=flat&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
--->
+</div>
 
-<p align="center"><i>Thanks for stopping by — always open to connecting on data, ML, or GenAI projects!</i></p>
+> Snake animation renders automatically once the workflow below runs in your profile repo:
+> ```yaml
+> # .github/workflows/snake.yml
+> name: generate snake animation
+> on:
+>   schedule:
+>     - cron: "0 */12 * * *"
+>   workflow_dispatch:
+>   push:
+>     branches: [ main ]
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: actions/checkout@v4
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: Shubham-Paudel
+>           outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: peaceiris/actions-gh-pages@v3
+>         with:
+>           github_token: ${{ secrets.GITHUB_TOKEN }}
+>           publish_branch: output
+>           publish_dir: ./dist
+> ```
+
+<br/>
+
+## ⟢ Signal
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4FD1C5,100:0F172A&height=100&section=footer" />
+
+<sub>Open to collaborating on data engineering, ML, and GenAI projects — reach out anytime.</sub>
+
+</div>
