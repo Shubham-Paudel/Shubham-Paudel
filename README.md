@@ -1,6 +1,3 @@
-create me a personal readme.md file to enhance my github profile current setup is like this enhance it further more
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shubham.rajpaudel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhampaudel_11) 
 # 💻 Tech Stack:
