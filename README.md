@@ -47,7 +47,7 @@ location:  Kathmandu, Nepal
 <img src="https://github-readme-stats.vercel.app/api?username=Shubham-Paudel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=4FD1C5&icon_color=4FD1C5&text_color=cbd5e1" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Paudel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=4FD1C5&text_color=cbd5e1" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Paudel&theme=tokyonight&hide_border=true&background=0F172A&ring=4FD1C5&fire=4FD1C5&currStreakLabel=4FD1C5" />
+<img src="https://streak-stats.demolab.com/?user=Shubham-Paudel&theme=tokyonight&hide_border=true&background=0F172A&ring=4FD1C5&fire=4FD1C5&currStreakLabel=4FD1C5" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=Shubham-Paudel&theme=tokyonight&no-frame=true&column=6&margin-w=8&margin-h=8" />
 
